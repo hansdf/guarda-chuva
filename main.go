@@ -9,7 +9,7 @@ import (
 )
 
 const (
-    apiKey  = "571b9e483fa9fb3022d7c5e06accf948" // I do not know how to hide my apikey on github, so it's just this for now
+    apiKey  = "placeholder" // I do not know how to hide my apikey on github, so it's just this for now
     baseURL = "http://api.openweathermap.org/data/2.5/forecast"
     lat     = "-30.033056"
     lon     = "-51.230000"
