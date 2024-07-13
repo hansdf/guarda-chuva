@@ -8,7 +8,8 @@ It consumes a REST API from openweathermap.org that provides 5 day forecast at a
 
 For now, the coordinates(lat, lon) are fixed for Porto Alegre, Rio Grande do Sul.
 
-In the future I'd like to make a web app version of this with a frontend!
+In the future I'd like to make a web app version of this(using Gin framework) with a frontend!
 
-![image](https://github.com/user-attachments/assets/72f034d9-2831-4647-b45f-17804e7e3a2d)
+![image](https://github.com/user-attachments/assets/15a1d440-b0b0-4245-8bf2-106df927193b)
+
 
