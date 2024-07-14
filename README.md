@@ -5,6 +5,7 @@ This is my first time working with a proper Go application.
 it should be a minimalist CLI tool that displays if you should bring an umbrella to go out(as in, it will rain that day)
 
 It consumes a REST API from openweathermap.org that provides 5 day forecast at any location on the globe.
+The great JSON-to-Go tool (https://mholt.github.io/json-to-go/) helps in parsing the info
 
 For now, the coordinates(lat, lon) are fixed for Porto Alegre, Rio Grande do Sul.
 
