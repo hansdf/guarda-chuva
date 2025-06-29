@@ -9,8 +9,6 @@ The great JSON-to-Go tool (https://mholt.github.io/json-to-go/) helps in parsing
 
 For now, the coordinates(lat, lon) are fixed for Porto Alegre, Rio Grande do Sul.
 
-In the future I'd like to make a web app version of this(using Gin framework) with a frontend!
+In the future I'd like to make a web app version of this(using Gin framework) with a frontend.
 
-![image](https://github.com/user-attachments/assets/15a1d440-b0b0-4245-8bf2-106df927193b)
-
-
+![image](https://github.com/user-attachments/assets/c3e69b58-ef94-4d76-8cc7-ba14241fae14)
